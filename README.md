@@ -1,4 +1,4 @@
-# Hi 👋, I'm [TwojeImię/Nick]
+# Hi 👋, I'm [GH00ST]
 
 I'm a passionate **Front-end Developer** focused on building modern and user-friendly web applications.  
 I enjoy solving problems, learning new technologies, and constantly improving my skills.  
