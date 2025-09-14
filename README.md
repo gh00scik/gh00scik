@@ -13,11 +13,3 @@ I enjoy solving problems, learning new technologies, and constantly improving my
 ### 🔧 Languages and Tools
 - **Front-end:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3 (Flexbox, Grid, SCSS)  
 - **Other tools:** Git, npm, Figma, VS Code  
-- **Game Development:** FiveM (Lua, JS/TS for NUI integrations)  
-
----
-
-### 📫 Connect with me
-- [LinkedIn](#)  
-- [Discord](#)  
-- [Portfolio/Website](#)  
