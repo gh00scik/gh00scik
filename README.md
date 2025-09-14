@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm [TwojeImię/Nick]
 
-<!--
-**gh00scik/gh00scik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Front-end Developer** focused on building modern and user-friendly web applications.  
+I enjoy solving problems, learning new technologies, and constantly improving my skills.  
 
-Here are some ideas to get you started:
+💻 **Currently working with:** React & TypeScript  
+🎮 **Specialization:** Creating **UI systems and custom NUI panels for FiveM servers**  
+🌱 **Learning and improving in:** Advanced React patterns, performance optimization, UI/UX best practices  
+🚀 **Interests:** Scalable applications, clean code, and expanding towards full-stack development in the future  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Languages and Tools
+- **Front-end:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3 (Flexbox, Grid, SCSS)  
+- **Other tools:** Git, npm, Figma, VS Code  
+- **Game Development:** FiveM (Lua, JS/TS for NUI integrations)  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](#)  
+- [Discord](#)  
+- [Portfolio/Website](#)  
